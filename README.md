@@ -13,13 +13,20 @@ Penjelasan desain :
 ** HASIL PROGRAM **
 
 1. Multiple Inheritance
+
 ![multiple1](https://user-images.githubusercontent.com/99590350/156606085-0c3c4d34-2197-4de0-a647-3cc3351c6362.PNG)
+
 ![multiple2](https://user-images.githubusercontent.com/99590350/156606089-7a84dc4a-1306-4673-8065-e20483bbf7d3.PNG)
+
 ![multiple3](https://user-images.githubusercontent.com/99590350/156606104-c7ab9425-6a93-4127-8ab9-5aa179abbca7.PNG)
+
 ![multiple4](https://user-images.githubusercontent.com/99590350/156606114-e21a2a2f-d178-43ab-83c4-a078aa49b385.PNG)
+
 
 2. Hierarchial Inheritance
 ![hierarki1](https://user-images.githubusercontent.com/99590350/156606182-ddbf3a7b-83cc-429a-aaf5-05b5f1adbcce.jpeg)
+
 ![hierarki2](https://user-images.githubusercontent.com/99590350/156606185-bede248e-b787-46ed-813a-e773ce661e30.jpeg)
+
 ![hierarki3](https://user-images.githubusercontent.com/99590350/156606190-3bacda73-d6c6-4444-b264-5ddec8fc0ddc.jpeg)
 

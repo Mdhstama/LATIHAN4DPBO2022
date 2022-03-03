@@ -24,6 +24,7 @@ Penjelasan desain :
 
 
 2. Hierarchial Inheritance
+
 ![hierarki1](https://user-images.githubusercontent.com/99590350/156606182-ddbf3a7b-83cc-429a-aaf5-05b5f1adbcce.jpeg)
 
 ![hierarki2](https://user-images.githubusercontent.com/99590350/156606185-bede248e-b787-46ed-813a-e773ce661e30.jpeg)
